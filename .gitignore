@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.db
+*.vsidx
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Compilación .NET
+bin/
+obj/
+
+# Node/Angular
+node_modules/
+dist/
